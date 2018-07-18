@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="edit_message">Enter Message</string>
+    <string name="button_send">Send</string>
+    <string name="action_setting">Settings</string>
+    <string name="Title_activity_my">MyActivity</string>
+</resources>
